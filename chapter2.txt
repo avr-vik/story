@@ -1,1 +1,1 @@
-This is second test for git version control. 
+This is second test for git version control. Merge test. 
